@@ -18,13 +18,21 @@ This project implements a deep learning-based **Next Word Prediction** system us
 
 ### 📁 Project Structure
 ├── app.py # Streamlit app for prediction
+
 ├── experiments.ipynb # LSTM model training notebook
+
 ├── GRU_RNN_experiments.ipynb # GRU-based training experiment
+
 ├── hamlet.txt # Text dataset (Shakespeare's Hamlet)
+
 ├── next_word_lstm.h5 # Trained LSTM model
+
 ├── next_word_GRU.h5 # Trained GRU model
+
 ├── tokenizer.pickle # Saved tokenizer object
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 
