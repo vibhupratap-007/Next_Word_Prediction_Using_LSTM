@@ -33,7 +33,7 @@ This project implements a deep learning-based **Next Word Prediction** system us
 - requirements.txt # Dependencies
 
 - README.md # Project documentation
-- 
+  
 ---
 
 ### 🧠 Model Architecture
