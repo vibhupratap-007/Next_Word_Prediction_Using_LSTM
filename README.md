@@ -1,6 +1,7 @@
 # 🧠 Next Word Prediction Using LSTM
 
 This project implements a deep learning-based **Next Word Prediction** system using **LSTM (Long Short-Term Memory)** networks. It uses text from Shakespeare's *Hamlet* and provides a simple **Streamlit web interface** for users to input text and receive predictions for the next word.
+
 ---
 
 ### 🚀 Features
